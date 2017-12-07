@@ -1,5 +1,4 @@
-#Transformación de datos usando Bash  
-(Notas de Clase)
+# Programación en Bash para Ciencia de los Datos 
 
 **Juan David Velásquez Henao**    
 jdvelasq@unal.edu.co  
